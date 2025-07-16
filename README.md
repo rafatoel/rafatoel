@@ -1,125 +1,88 @@
-<h1 align="center">⚡ Rafatoel</h1>
-<h3 align="center">🔧 Ethical Hacker • 🧠 AI Engineer • 🛠 Odoo Expert • 📊 Research Architect</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com ?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Rafatoel;Ethical+Hacker+%7C+Odoo+Expert+%7C+AI+Builder;Automation+Engineer+%7C+Content+Creator" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Simulation+Engineer;Automation+Tool+Builder;Deep+Learning+Strategist;Malware+Analyst+%26+Hacker;Academic+Researcher+%7C+GuruClub+Mentor" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif " width="350" alt="Coding Animation"/>
 </p>
 
 ---
 
-## 🧭 About Me
+## 🌐 About Me
 
-I'm **Rafatoel**, a developer and ethical hacker operating at the intersection of **security, automation, AI, and education**. My mission is to **simulate digital threats**, **build countermeasures**, and **empower others with cutting-edge tools**.
-
-> 💬 “Most of my work is **classified or confidential**, developed solo, with precision and stealth. I share only what is sanitized or simulation-ready.”
-
----
-
-## 🚀 Core Domains
-
-### ⚙️ 1. Odoo ERP Engineering (v13–v17)
-- Custom modules, CI/CD pipelines, module packaging
-- Advanced logic & automation (Telegram bots, cron triggers, webhooks)
-- VPS deployments with Nginx, PostgreSQL, and Systemd
-- ✅ Example: [`custom_task_manager`](https://github.com/rafatoel/custom_task_manager)
-
-### 🛡️ 2. Red Team Simulation (Controlled Lab)
-- Android RATs with stealth permissions
-- Keylogger and C2 Command Channels
-- Static website cloners for DOM testing
-- AV evasion, sandbox detection, persistence chains
-
-### 🧠 3. AI Tools & Deep Reinforcement Learning
-- DRL agents for **Bus Transit Network Design**
-- Transformer-based policy networks + Pareto front optimization
-- Custom indicators + risk tools for **Gold trading**
-
-### 🤖 4. Automation Frameworks
-- Browser automation (Playwright) for gov services:
-  - Passport booking system (OTP, forms, payments)
-- TikTok Automation Farm:
-  - 100+ rooted Androids running 20 accounts each
-  - Auto-follows, engagement, content farms
+<div style="background:linear-gradient(to right, #1a1a1a, #2c2c2c); padding: 1rem; border-radius: 10px;">
+  <p style="color:#f5f5f5; font-family:'JetBrains Mono'; font-size:16px;">
+    🔍 I build intelligent systems, stealth automation tools, and AI-powered agents. My work blends cybersecurity, red teaming, ERP development, and AI research.
+  </p>
+</div>
 
 ---
 
-## 🧪 Research & Academic Projects
+## 🛠️ Tech Stack
 
-### 📘 Services:
-- Full research support (Degree → PhD)
-- Data analysis (SPSS, Python, MATLAB)
-- AI model implementation (LLM, DRL, ML)
-- Thesis coaching, paper writing, simulation & design
-
-### 🧠 Notable:
-- **DRL-Based Transit Optimization**  
-  Transformer-style encoder/decoder for multi-objective routing
-- **Red Teaming Curriculum Design**  
-  Teaching adversarial simulation with lab tools
+| Language/Tool | Badge |
+|---------------|-------|
+| Python        | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| JavaScript    | ![JavaScript]( https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| Java          | ![Java]( https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) |
+| Odoo          | ![Odoo]( https://img.shields.io/badge/-Odoo-875A49?style=flat&logo=odoo&logoColor=white) |
+| Docker        | ![Docker]( https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 ---
 
-## 🎓 Education & Content @ GuruClub University
+## 🚀 Featured Projects
 
-- 🎥 Creator of AI-driven content on:
-  - Ethiopian mythology, mysticism, and *Dertogada*
-- 📚 Research mentor for students across Africa
-- 🎤 Tech storytelling fused with red team simulations and AI
-
-> 🧩 “Educating not just with code—but through story, symbol, and systems.”
-
----
-
-## 🧰 Tech Stack
-
-| Category      | Stack / Tools |
-|---------------|----------------|
-| **Languages** | Python, Java, Shell, JS, SQL |
-| **Frameworks**| Odoo, Playwright, Node.js, FastAPI |
-| **Platforms** | Android SDK, Kali Linux, Termux, GitHub Actions |
-| **Database**  | PostgreSQL, SQLite |
-| **Design**    | Figma, XML Views, Tailwind |
-| **DevOps**    | GitHub CI/CD, Systemd, VPS Automation Scripts |
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Custom Task Manager** | Modular task manager for Odoo ERP | Odoo 17, XML, PostgreSQL |
+| **Passport Booking Bot** | Automates Ethiopian passport appointments | Playwright, Python |
+| **RAT Toolkit** | Android remote access toolkit | Java, Android SDK |
+| **TikTok Automation Farm** | Simulates engagement using rooted devices | Android, Bash, Python |
 
 ---
 
-## 🔒 Work Ethos
+## 📊 GitHub Stats
 
-- 🧑‍💻 I prefer to work **independently**
-- 🤝 I collaborate when needed (cross-module or integration layers)
-- 🧬 Most of my tools are built for **stealth, speed, and simulation accuracy**
-- 📦 All modules are built **modularly**, **scalable**, and **code-clean**
-
----
-
-## 📫 Let’s Connect
-
-| Platform     | Link |
-|--------------|------|
-| Telegram     | [@yourusername](https://t.me/yourusername) |
-| GitHub       | [github.com/rafatoel](https://github.com/rafatoel) |
-| TikTok AI Project | (available on request) |
-| Portfolio    | `boltai.tech` *(coming soon)* |
-| Email        | `your.email@domain.com` (optional) |
+<p align="center">
+  <img src=" https://github-readme-streak-stats.herokuapp.com/?user=rafatoel&theme=dark" />
+  <br/>
+  <img src=" https://github-readme-stats.vercel.app/api?username=rafatoel&show_icons=true&theme=radical&hide_border=true" />
+  <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=rafatoel&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📁 GitHub Repo Highlights
+## 🎨 Content Creation (AI-Powered)
 
-- [`custom_task_manager`](https://github.com/rafatoel/custom_task_manager) – Full-featured Odoo module (backend + views)
-- [`eth-passport-automation`](https://github.com/rafatoel/passport-bot) – Playwright bot (multi-stage, modular)
-- [`rafartoel-rat`](https://github.com/rafatoel/rafartoel-rat) – Android remote control GUI loader
-- [`flashstamp-diy`](https://github.com/rafatoel/flashstamp-diy) – DIY hardware project for digital stamp creation
-
----
-
-## 🧩 Side Projects
-
-- 📦 **Flash Stamp Maker (DIY)** – Low-cost, LED-based stamp system with timer control  
-- 🧬 **AI TikTok Video Agent** – Text-to-voice + AI visuals on mysticism, spirituality, conspiracies  
-- 🧠 **Darknet Simulation Environment** – Offline testbed for red team scenario simulations
+- 🤖 TikTok bots generating content with GPT + DALL·E prompts  
+- 🎥 Mythology, hacking, simulation theory narratives  
+- 🧪 Visual storytelling with AI voiceovers  
 
 ---
 
-> _"I simulate threat to teach defense. I automate routine to free up intelligence. I build solo, collaborate when critical, and always deliver what systems can’t block."_
+## 🧠 Research Highlights
 
+> **🧠 Reinforcement Learning in Public Transit Design**  
+> Agent-based optimization of bus routes using DRL techniques to reduce emissions and improve transfer efficiency.
+
+> **📚 Thesis Support & AI Implementation**  
+> From topic selection to publication — including code, data visualization, and ethical review prep.
+
+---
+
+## 📫 Contact Me
+
+| Platform | Link |
+|---------|------|
+| GitHub  | [rafatoel]( https://github.com/rafatoel ) |
+| Telegram | [@rafatoel](https://t.me/rafatoel ) |
+| Email   | [rafatoel@protonmail.com](mailto:rafatoel@protonmail.com) |
+| Portfolio | https://boltai.tech  |
+
+---
+
+## 🧬 Final Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Secure.+Automate.+Simulate.+Repeat." />
+</p>
