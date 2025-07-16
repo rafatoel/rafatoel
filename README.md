@@ -1,86 +1,96 @@
+<!-- Rainbow Animated Header with Matrix Effect -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rafatoel/rafatoel/main/matrix.gif" width="100%"/>
+  <h1>
+    <a href="https://github.com/rafatoel">
+      <img src="https://readme-typing-svg.demolab.com?font=Matrix+Code+NFI&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=rafatoel;Cyber+Alchemist;Automation+Shinobi;AI+Architect" alt="Matrix Typing SVG" />
+    </a>
+  </h1>
+</div>
+
+<!-- Animated Gradient Divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00F7FF&background=0A0A0A&center=true&vCenter=true&width=650&lines=Hi,+I'm+Rafatoel!;Ethical+Hacker+%26+Odoo+Expert;AI+Researcher+%7C+Automation+Engineer" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Coding Animation" />
-</p>
-
----
-
-<div align="center" style="background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); padding: 15px; border-radius: 12px; color: #00f7ff;">
-  <h2>🚀 About Me</h2>
-  <p style="font-size: 18px;">
-    I’m <strong>rafatoel</strong> — a multi-domain specialist in <em>ethical hacking</em>, <em>Odoo ERP</em>, <em>AI automation</em>, and <em>academic research</em>.
-    <br />
-    I build <strong>stealthy tools</strong>, <strong>automation frameworks</strong>, and <strong>simulation environments</strong> mostly solo under confidentiality, with occasional collaboration.
+<!-- Bio Section with Glowing Text -->
+<div align="center" style="background: linear-gradient(90deg, #0f0f0f 0%, #1a1a2e 50%, #0f0f0f 100%); padding: 20px; border-radius: 10px; border: 1px solid #00ffaa55;">
+  <p style="color: #00ffaa; text-shadow: 0 0 8px #00ffaa;">
+    <b>🔥 BUILDING IN THE SHADOWS 🔥</b>
+  </p>
+  <p style="color: #f5f5f5;">
+    Specializing in <span style="color: #ff5555; font-weight: bold;">red team automation</span>, 
+    <span style="color: #55ff55; font-weight: bold;">AI agent swarms</span>, and 
+    <span style="color: #5555ff; font-weight: bold;">Odoo black magic</span>.
   </p>
 </div>
 
----
+<!-- Tech Stack with Animated Icons -->
+<h2 align="center" style="color: #00ccff; text-shadow: 0 0 5px #00ccff;">⚡ TECH RADAR</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,android,arduino,postgres,redis,docker,kubernetes,figma,tailwind,linux,git,github,odoo&theme=dark&perline=8" />
+</div>
 
-## 🛠️ Core Skills & Technologies
+<!-- Project Showcase with Glowing Cards -->
+<h2 align="center" style="color: #ff66ff; text-shadow: 0 0 5px #ff66ff;">🌀 BLACK PROJECTS</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <div style="background: linear-gradient(135deg, #1e0028 0%, #2d00aa 100%); padding: 15px; border-radius: 10px; border: 1px solid #ff00ff; box-shadow: 0 0 15px #ff00ff55;">
+          <h3 style="color: #ff99ff;">EthioPassport Bot</h3>
+          <p style="color: #ccccff;">Automated urgent passport booking system</p>
+          <img src="https://img.shields.io/badge/Status-ACTIVE-00ff00?style=for-the-badge&logo=github">
+        </div>
+      </td>
+      <td width="50%">
+        <div style="background: linear-gradient(135deg, #002800 0%, #00aa2d 100%); padding: 15px; border-radius: 10px; border: 1px solid #00ffaa; box-shadow: 0 0 15px #00ffaa55;">
+          <h3 style="color: #99ff99;">Odoo17 Task Ninja</h3>
+          <p style="color: #ccffcc;">Advanced task management module</p>
+          <img src="https://img.shields.io/badge/Status-STABLE-00aa00?style=for-the-badge&logo=github">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-| Category        | Tools & Frameworks                                                                                  |
-|-----------------|---------------------------------------------------------------------------------------------------|
-| **Languages**   | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript) |
-| **Frameworks**  | ![Odoo](https://img.shields.io/badge/-Odoo-7A3E92?style=for-the-badge&logo=odoo) ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=for-the-badge&logo=microsoftedge) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js) |
-| **DevOps**      | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux) |
-| **Databases**   | PostgreSQL, SQLite, Redis                                                                          |
-| **Design/UI**   | Figma, XML Views, Tailwind CSS                                                                    |
+<!-- GitHub Stats with Animated Border -->
+<h2 align="center" style="color: #ffff00; text-shadow: 0 0 5px #ffff00;">📊 COVERT METRICS</h2>
+<div align="center" style="border: 2px dashed #ffff0055; padding: 10px; border-radius: 10px; animation: pulse 2s infinite;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafatoel&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafatoel&theme=black-ice&hide_border=true&background=0d1117" />
+</div>
 
----
+<!-- Snake Animation with Glow -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rafatoel/rafatoel/output/github-contribution-grid-snake.svg" width="100%" style="filter: drop-shadow(0 0 10px #00ffff);"/>
+</div>
 
-## 🔥 Selected Projects
+<!-- Contact Section with Animated Buttons -->
+<h2 align="center" style="color: #ff5555; text-shadow: 0 0 5px #ff5555;">📡 BURNER CHANNELS</h2>
+<div align="center">
+  <a href="https://t.me/yourhandle">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=flat&color=26A5E4&labelColor=black" alt="Telegram" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat&color=EA4335&labelColor=black" alt="Email" />
+  </a>
+  <a href="https://github.com/rafatoel">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat&color=181717&labelColor=black" alt="GitHub" />
+  </a>
+</div>
 
-| Project Name              | Tech Stack                    | Description                                                                                   |
-|---------------------------|-------------------------------|-----------------------------------------------------------------------------------------------|
-| **custom_task_manager**   | Odoo 17, Python               | Modular task/project manager with UI views and access control.                                |
-| **eth-passport-automation** | Playwright, Python            | Full-stack automation of Ethiopian passport urgent booking system.                            |
-| **rafartoel-RAT**         | Android (Java), C2            | Android remote control tool with GUI loader and persistence.                                 |
-| **flashstamp-diy**        | Arduino, Hardware             | Low-cost UV LED flash stamp machine for lab use.                                             |
-| **TikTok automation farm**| Rooted Android, Automation    | Multi-device TikTok account manager with auto-follow/like/upload for growth simulation.      |
+<!-- Matrix-style Footer -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rafatoel/rafatoel/main/matrix_footer.gif" width="100%"/>
+  <p style="color: #00ff41; font-family: 'Courier New', monospace;">> SYSTEM READY</p>
+</div>
 
----
-
-## 📚 Research & Academic Work
-
-- **Deep Reinforcement Learning (DRL) for Transit Networks**  
-  Transformer-based policy optimization using multi-objective Pareto fronts.
-
-- **PhD to Master Research Assistance**  
-  Data cleaning, AI implementation, thesis design, and statistical analysis.
-
-- **Content Creator at GuruClub University**  
-  AI-generated TikTok videos on Ethiopian mysticism and technology education.
-
----
-
-## 💡 Work Philosophy
-
-> “I build **solo** for stealth and precision; I collaborate strategically.  
-> Every tool I create is modular, efficient, and battle-tested in research labs.”
-
----
-
-## 📫 Contact & Socials
-
-<p align="center">
-  <a href="https://github.com/rafatoel" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://t.me/yourhandle" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
-  <a href="mailto:your.email@domain.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafatoel&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rafatoel&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Secure.+Automate.+Simulate.+Repeat." alt="Quote" />
-</p>
+<!-- Hidden Animation CSS -->
+<style>
+  @keyframes pulse {
+    0% { box-shadow: 0 0 5px #ffff0055; }
+    50% { box-shadow: 0 0 20px #ffff00aa; }
+    100% { box-shadow: 0 0 5px #ffff0055; }
+  }
+</style>
