@@ -1,108 +1,125 @@
-# 👨‍💻 Rafatoel | Developer • Ethical Hacker • Researcher • Creator
+<h1 align="center">⚡ Rafatoel</h1>
+<h3 align="center">🔧 Ethical Hacker • 🧠 AI Engineer • 🛠 Odoo Expert • 📊 Research Architect</h3>
 
-Welcome to my digital lab.
-
-I'm **rafatoel**, a multi-domain specialist working across secure software engineering, AI automation, academic research, and red team simulation. I work solo on most projects with high confidentiality and precision, and selectively collaborate when needed. My mission is to **simulate advanced attacker behavior**, **automate complex systems**, and **deliver clean solutions** for both production and research environments.
-
----
-
-## 🔧 Odoo Developer & ERP Automation
-
-I build full Odoo systems with custom modules, deep logic, and scalable deployment strategies.
-
-- ✔️ Odoo 13–17 backend development  
-- ✔️ Telegram/Odoo integration  
-- ✔️ POS, Inventory, CRM, HR, and Education modules  
-- ✔️ CI/CD pipelines (GitHub Actions, GitLab, custom shell scripts)  
-- ✔️ VPS deployment, systemd service setup, Nginx reverse proxy  
-
-📦 Sample Module: [`custom_task_manager`](https://github.com/rafatoel/custom_task_manager)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Simulation+Engineer;Automation+Tool+Builder;Deep+Learning+Strategist;Malware+Analyst+%26+Hacker;Academic+Researcher+%7C+GuruClub+Mentor" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛡️ Red Team Simulation & Ethical Hacking (Gov-Lab Approved)
+## 🧭 About Me
 
-All simulations are **performed in a controlled research environment** to improve defensive systems.
+I'm **Rafatoel**, a developer and ethical hacker operating at the intersection of **security, automation, AI, and education**. My mission is to **simulate digital threats**, **build countermeasures**, and **empower others with cutting-edge tools**.
 
-- 🔥 Android RAT (Java-based, GUI loader, stealth persistence)
-- 🔑 Keyloggers, exploit PoCs, and C2 communication tools  
-- 🕸️ Web cloning, credential traps, and endpoint bypasses  
-- 👁️ AV evasion, obfuscation, sandbox detection tactics  
-- 🔗 Static/dynamic behavior analysis tooling  
-
-🧪 Tools: `Bolt-C2`, `Rafartoel RAT`, `JS Payload Injector`, `APK Rebuilder`
+> 💬 “Most of my work is **classified or confidential**, developed solo, with precision and stealth. I share only what is sanitized or simulation-ready.”
 
 ---
 
-## 📲 Browser Automation & Control Farms
+## 🚀 Core Domains
 
-Browser-level and mobile automation using Playwright, Puppeteer, and rooted Android fleets.
+### ⚙️ 1. Odoo ERP Engineering (v13–v17)
+- Custom modules, CI/CD pipelines, module packaging
+- Advanced logic & automation (Telegram bots, cron triggers, webhooks)
+- VPS deployments with Nginx, PostgreSQL, and Systemd
+- ✅ Example: [`custom_task_manager`](https://github.com/rafatoel/custom_task_manager)
 
-- 🌐 **Ethiopian Passport Automation Bot**  
-  Modular GUI-based app that fully automates account creation, OTP, form fill, payment, and confirmation.  
+### 🛡️ 2. Red Team Simulation (Controlled Lab)
+- Android RATs with stealth permissions
+- Keylogger and C2 Command Channels
+- Static website cloners for DOM testing
+- AV evasion, sandbox detection, persistence chains
 
-- 🎯 **TikTok Farm Automation**  
-  Rooted 100+ Android devices, 20+ TikTok USA-based accounts each, automated follow/like/upload farms, Creator Program monetization.
+### 🧠 3. AI Tools & Deep Reinforcement Learning
+- DRL agents for **Bus Transit Network Design**
+- Transformer-based policy networks + Pareto front optimization
+- Custom indicators + risk tools for **Gold trading**
 
----
-
-## 📚 Research Services (Academic & Technical)
-
-I provide **research support** and custom tooling for:
-
-- 🎓 Degree → Master's → PhD  
-- 📊 Data cleaning, statistical design (SPSS, Python, Excel)
-- 📜 AI-powered literature reviews  
-- 📈 Model implementation: Deep RL, optimization, transformer encoders
-
-🧬 Sample Project:  
-**BTND Optimization Using DRL + Pareto Fronts**  
-> Transformer-based encoder-decoder policy network to design bus transit systems with multi-objective optimization.
-
----
-
-## 🎥 Content Creator @ GuruClub University
-
-At **GuruClub University**, I create tech-education content that bridges advanced tooling with local context.
-
-- 🎞️ AI video generation (Ethiopian history, mysticism, *Dertogada* by Yismake Worku)  
-- 🎨 Visual learning with TikTok + automation  
-- 📚 Multi-language narration pipelines  
-- 🧠 Storytelling fused with red team concepts & AI themes
+### 🤖 4. Automation Frameworks
+- Browser automation (Playwright) for gov services:
+  - Passport booking system (OTP, forms, payments)
+- TikTok Automation Farm:
+  - 100+ rooted Androids running 20 accounts each
+  - Auto-follows, engagement, content farms
 
 ---
 
-## 💡 AI Tools & Trading Strategies
+## 🧪 Research & Academic Projects
 
-I design AI-based agents that analyze markets and optimize decision-making.
+### 📘 Services:
+- Full research support (Degree → PhD)
+- Data analysis (SPSS, Python, MATLAB)
+- AI model implementation (LLM, DRL, ML)
+- Thesis coaching, paper writing, simulation & design
 
-- 💰 Gold trading bots (multi-timeframe confluence)  
-- 📉 Risk/reward automation, S/R detection  
-- 📈 Transformer-based signal generation  
-- 🧠 Experimental DRL agents for live trading  
-
----
-
-## 🛠️ DIY Hardware Projects
-
-- 🔦 **Flash Stamp Machine**  
-  Built a low-cost digital stamp maker using LED UV exposure and a custom timer circuit for lab/research seals.
-
-- 🧰 Tools used: Arduino, timers, repurposed camera LEDs, recycled PSU modules
+### 🧠 Notable:
+- **DRL-Based Transit Optimization**  
+  Transformer-style encoder/decoder for multi-objective routing
+- **Red Teaming Curriculum Design**  
+  Teaching adversarial simulation with lab tools
 
 ---
 
-## 📫 Let's Connect
+## 🎓 Education & Content @ GuruClub University
 
-| Platform | Handle / Link |
-|----------|---------------|
-| GitHub   | [rafatoel](https://github.com/rafatoel) |
-| Telegram | [@yourhandle](https://t.me/yourhandle) |
-| TikTok   | AI video project (link on request) |
-| Portfolio| Available on request or soon live on `boltai.tech` |
-| Email    | your.email@domain.com (optional) |
+- 🎥 Creator of AI-driven content on:
+  - Ethiopian mythology, mysticism, and *Dertogada*
+- 📚 Research mentor for students across Africa
+- 🎤 Tech storytelling fused with red team simulations and AI
+
+> 🧩 “Educating not just with code—but through story, symbol, and systems.”
 
 ---
 
-> _“I don’t just build tools. I simulate digital enemies so defenders can build stronger shields.”_
+## 🧰 Tech Stack
+
+| Category      | Stack / Tools |
+|---------------|----------------|
+| **Languages** | Python, Java, Shell, JS, SQL |
+| **Frameworks**| Odoo, Playwright, Node.js, FastAPI |
+| **Platforms** | Android SDK, Kali Linux, Termux, GitHub Actions |
+| **Database**  | PostgreSQL, SQLite |
+| **Design**    | Figma, XML Views, Tailwind |
+| **DevOps**    | GitHub CI/CD, Systemd, VPS Automation Scripts |
+
+---
+
+## 🔒 Work Ethos
+
+- 🧑‍💻 I prefer to work **independently**
+- 🤝 I collaborate when needed (cross-module or integration layers)
+- 🧬 Most of my tools are built for **stealth, speed, and simulation accuracy**
+- 📦 All modules are built **modularly**, **scalable**, and **code-clean**
+
+---
+
+## 📫 Let’s Connect
+
+| Platform     | Link |
+|--------------|------|
+| Telegram     | [@yourusername](https://t.me/yourusername) |
+| GitHub       | [github.com/rafatoel](https://github.com/rafatoel) |
+| TikTok AI Project | (available on request) |
+| Portfolio    | `boltai.tech` *(coming soon)* |
+| Email        | `your.email@domain.com` (optional) |
+
+---
+
+## 📁 GitHub Repo Highlights
+
+- [`custom_task_manager`](https://github.com/rafatoel/custom_task_manager) – Full-featured Odoo module (backend + views)
+- [`eth-passport-automation`](https://github.com/rafatoel/passport-bot) – Playwright bot (multi-stage, modular)
+- [`rafartoel-rat`](https://github.com/rafatoel/rafartoel-rat) – Android remote control GUI loader
+- [`flashstamp-diy`](https://github.com/rafatoel/flashstamp-diy) – DIY hardware project for digital stamp creation
+
+---
+
+## 🧩 Side Projects
+
+- 📦 **Flash Stamp Maker (DIY)** – Low-cost, LED-based stamp system with timer control  
+- 🧬 **AI TikTok Video Agent** – Text-to-voice + AI visuals on mysticism, spirituality, conspiracies  
+- 🧠 **Darknet Simulation Environment** – Offline testbed for red team scenario simulations
+
+---
+
+> _"I simulate threat to teach defense. I automate routine to free up intelligence. I build solo, collaborate when critical, and always deliver what systems can’t block."_
 
