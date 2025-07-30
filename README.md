@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,android,arduino,postgres,redis,docker,kubernetes,figma,tailwind,linux,git,github,odoo&theme=dark&perline=8" />
 </div>
 
-<!-- Project Showcase with Glowing Cards -->
+<!-- Detailed Project Showcase -->
 <h2 align="center" style="color: #ff66ff; text-shadow: 0 0 5px #ff66ff;">🌀 BLACK PROJECTS</h2>
 <div align="center">
   <table>
@@ -39,54 +39,79 @@
       <td width="50%">
         <div style="background: linear-gradient(135deg, #1e0028 0%, #2d00aa 100%); padding: 15px; border-radius: 10px; border: 1px solid #ff00ff; box-shadow: 0 0 15px #ff00ff55;">
           <h3 style="color: #ff99ff;">EthioPassport Bot</h3>
-          <p style="color: #ccccff;">Automated urgent passport booking system</p>
-          <img src="https://img.shields.io/badge/Status-ACTIVE-00ff00?style=for-the-badge&logo=github">
+          <p style="color: #ccccff;">Automated urgent passport booking system for Ethiopia. Built using Playwright with CAPTCHA handling, OTP entry, and auto-scheduling features. Includes local GUI & browser extension.</p>
+          <a href="https://github.com/rafatoel/EthioPassport-Auto" target="_blank">
+            <img src="https://img.shields.io/badge/View-Repository-6f42c1?style=for-the-badge&logo=github" />
+          </a>
         </div>
       </td>
       <td width="50%">
         <div style="background: linear-gradient(135deg, #002800 0%, #00aa2d 100%); padding: 15px; border-radius: 10px; border: 1px solid #00ffaa; box-shadow: 0 0 15px #00ffaa55;">
           <h3 style="color: #99ff99;">Odoo17 Task Ninja</h3>
-          <p style="color: #ccffcc;">Advanced task management module</p>
-          <img src="https://img.shields.io/badge/Status-STABLE-00aa00?style=for-the-badge&logo=github">
+          <p style="color: #ccffcc;">Custom-built task & project automation module for Odoo17. Features recurring task logic, DevOps-style automation, and stealth background triggers.</p>
+          <a href="https://github.com/rafatoel/Odoo-TaskNinja" target="_blank">
+            <img src="https://img.shields.io/badge/View-Repository-6f42c1?style=for-the-badge&logo=github" />
+          </a>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- GitHub Stats with Animated Border -->
+<!-- Demo Visuals -->
+<h3 align="center" style="color: #ffaa00;">📺 Project Demos</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafatoel/EthioPassport-Auto/main/demo.gif" width="80%" style="border-radius: 10px; box-shadow: 0 0 15px #00ffaa55;" />
+</p>
+
+<!-- GitHub Stats -->
 <h2 align="center" style="color: #ffff00; text-shadow: 0 0 5px #ffff00;">📊 COVERT METRICS</h2>
 <div align="center" style="border: 2px dashed #ffff0055; padding: 10px; border-radius: 10px; animation: pulse 2s infinite;">
   <img src="https://github-readme-stats.vercel.app/api?username=rafatoel&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafatoel&theme=black-ice&hide_border=true&background=0d1117" />
 </div>
 
-<!-- Snake Animation with Glow -->
+<!-- Extra Metrics -->
+<p align="center">
+  <img src="https://img.shields.io/github/issues/rafatoel/EthioPassport-Auto?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/rafatoel/EthioPassport-Auto?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/rafatoel/EthioPassport-Auto?style=for-the-badge" />
+</p>
+
+<!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/rafatoel/rafatoel/output/github-contribution-grid-snake.svg" width="100%" style="filter: drop-shadow(0 0 10px #00ffff);"/>
 </div>
 
-<!-- Contact Section with Animated Buttons -->
+<!-- About Me -->
+<h2 align="center" style="color: #ffdd00;">👤 ABOUT ME</h2>
+<div align="center">
+  <p style="color: #ccc; max-width: 700px;">
+    I go by <b>rafatoel</b>, a Cyber Alchemist crafting automation tools and AI war machines in the shadows. I specialize in <b>ethical red teaming</b>, building offensive simulators to train next-gen defense systems. Currently exploring mass automation farms, stealthy Android tools, and distributed C2s for controlled lab use. Let's build chaos, safely.
+  </p>
+</div>
+
+<!-- Contact Buttons -->
 <h2 align="center" style="color: #ff5555; text-shadow: 0 0 5px #ff5555;">📡 BURNER CHANNELS</h2>
 <div align="center">
-  <a href="https://t.me/yourhandle">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=flat&color=26A5E4&labelColor=black" alt="Telegram" />
+  <a href="https://t.me/rafatoel">
+    <img src="https://img.shields.io/badge/Telegram-Rafatoel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat&color=EA4335&labelColor=black" alt="Email" />
+  <a href="mailto:rafatoel@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-rafatoel@protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/rafatoel">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat&color=181717&labelColor=black" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-rafatoel-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
-<!-- Matrix-style Footer -->
+<!-- Footer -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/rafatoel/rafatoel/main/matrix_footer.gif" width="100%"/>
   <p style="color: #00ff41; font-family: 'Courier New', monospace;">> SYSTEM READY</p>
 </div>
 
-<!-- Hidden Animation CSS -->
+<!-- Animation CSS -->
 <style>
   @keyframes pulse {
     0% { box-shadow: 0 0 5px #ffff0055; }
