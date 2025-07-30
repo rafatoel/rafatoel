@@ -1,121 +1,134 @@
-<!-- Rainbow Animated Header with Matrix Effect -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rafatoel/rafatoel/main/matrix.gif" width="100%"/>
-  <h1>
-    <a href="https://github.com/rafatoel">
-      <img src="https://readme-typing-svg.demolab.com?font=Matrix+Code+NFI&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=rafatoel;Cyber+Alchemist;Automation+Shinobi;AI+Architect" alt="Matrix Typing SVG" />
-    </a>
-  </h1>
-</div>
-
-<!-- Animated Gradient Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
-
-<!-- Bio Section with Glowing Text -->
-<div align="center" style="background: linear-gradient(90deg, #0f0f0f 0%, #1a1a2e 50%, #0f0f0f 100%); padding: 20px; border-radius: 10px; border: 1px solid #00ffaa55;">
-  <p style="color: #00ffaa; text-shadow: 0 0 8px #00ffaa;">
-    <b>🔥 BUILDING IN THE SHADOWS 🔥</b>
-  </p>
-  <p style="color: #f5f5f5;">
-    Specializing in <span style="color: #ff5555; font-weight: bold;">red team automation</span>, 
-    <span style="color: #55ff55; font-weight: bold;">AI agent swarms</span>, and 
-    <span style="color: #5555ff; font-weight: bold;">Odoo black magic</span>.
-  </p>
-</div>
-
-<!-- Tech Stack with Animated Icons -->
-<h2 align="center" style="color: #00ccff; text-shadow: 0 0 5px #00ccff;">⚡ TECH RADAR</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,android,arduino,postgres,redis,docker,kubernetes,figma,tailwind,linux,git,github,odoo&theme=dark&perline=8" />
-</div>
-
-<!-- Detailed Project Showcase -->
-<h2 align="center" style="color: #ff66ff; text-shadow: 0 0 5px #ff66ff;">🌀 BLACK PROJECTS</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div style="background: linear-gradient(135deg, #1e0028 0%, #2d00aa 100%); padding: 15px; border-radius: 10px; border: 1px solid #ff00ff; box-shadow: 0 0 15px #ff00ff55;">
-          <h3 style="color: #ff99ff;">EthioPassport Bot</h3>
-          <p style="color: #ccccff;">Automated urgent passport booking system for Ethiopia. Built using Playwright with CAPTCHA handling, OTP entry, and auto-scheduling features. Includes local GUI & browser extension.</p>
-          <a href="https://github.com/rafatoel/EthioPassport-Auto" target="_blank">
-            <img src="https://img.shields.io/badge/View-Repository-6f42c1?style=for-the-badge&logo=github" />
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <div style="background: linear-gradient(135deg, #002800 0%, #00aa2d 100%); padding: 15px; border-radius: 10px; border: 1px solid #00ffaa; box-shadow: 0 0 15px #00ffaa55;">
-          <h3 style="color: #99ff99;">Odoo17 Task Ninja</h3>
-          <p style="color: #ccffcc;">Custom-built task & project automation module for Odoo17. Features recurring task logic, DevOps-style automation, and stealth background triggers.</p>
-          <a href="https://github.com/rafatoel/Odoo-TaskNinja" target="_blank">
-            <img src="https://img.shields.io/badge/View-Repository-6f42c1?style=for-the-badge&logo=github" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Demo Visuals -->
-<h3 align="center" style="color: #ffaa00;">📺 Project Demos</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafatoel/EthioPassport-Auto/main/demo.gif" width="80%" style="border-radius: 10px; box-shadow: 0 0 15px #00ffaa55;" />
-</p>
-
-<!-- GitHub Stats -->
-<h2 align="center" style="color: #ffff00; text-shadow: 0 0 5px #ffff00;">📊 COVERT METRICS</h2>
-<div align="center" style="border: 2px dashed #ffff0055; padding: 10px; border-radius: 10px; animation: pulse 2s infinite;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafatoel&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafatoel&theme=black-ice&hide_border=true&background=0d1117" />
-</div>
-
-<!-- Extra Metrics -->
-<p align="center">
-  <img src="https://img.shields.io/github/issues/rafatoel/EthioPassport-Auto?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/rafatoel/EthioPassport-Auto?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/rafatoel/EthioPassport-Auto?style=for-the-badge" />
-</p>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rafatoel/rafatoel/output/github-contribution-grid-snake.svg" width="100%" style="filter: drop-shadow(0 0 10px #00ffff);"/>
-</div>
-
-<!-- About Me -->
-<h2 align="center" style="color: #ffdd00;">👤 ABOUT ME</h2>
-<div align="center">
-  <p style="color: #ccc; max-width: 700px;">
-    I go by <b>rafatoel</b>, a Cyber Alchemist crafting automation tools and AI war machines in the shadows. I specialize in <b>ethical red teaming</b>, building offensive simulators to train next-gen defense systems. Currently exploring mass automation farms, stealthy Android tools, and distributed C2s for controlled lab use. Let's build chaos, safely.
-  </p>
-</div>
-
-<!-- Contact Buttons -->
-<h2 align="center" style="color: #ff5555; text-shadow: 0 0 5px #ff5555;">📡 BURNER CHANNELS</h2>
-<div align="center">
-  <a href="https://t.me/rafatoel">
-    <img src="https://img.shields.io/badge/Telegram-Rafatoel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:rafatoel@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-rafatoel@protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/rafatoel">
-    <img src="https://img.shields.io/badge/GitHub-rafatoel-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rafatoel/rafatoel/main/matrix_footer.gif" width="100%"/>
-  <p style="color: #00ff41; font-family: 'Courier New', monospace;">> SYSTEM READY</p>
-</div>
-
-<!-- Animation CSS -->
+<!-- 🔥 SYSTEM BOOTED — README INITIATED -->
 <style>
-  @keyframes pulse {
-    0% { box-shadow: 0 0 5px #ffff0055; }
-    50% { box-shadow: 0 0 20px #ffff00aa; }
-    100% { box-shadow: 0 0 5px #ffff0055; }
-  }
+@keyframes pulse {
+  0% { box-shadow: 0 0 5px #00ff9d55; }
+  50% { box-shadow: 0 0 20px #00ffc3aa; }
+  100% { box-shadow: 0 0 5px #00ff9d55; }
+}
 </style>
+
+<h1 align="center" style="animation: pulse 2s infinite;">
+  👾 Rafatoel Red Team Lab 👾
+</h1>
+
+<h3 align="center"> 
+⚡ Welcome to the edge of cybersecurity research ⚡  
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36F092&center=true&vCenter=true&width=440&lines=Red+Team+Simulation+Lab;Advanced+Malware+PoC+Builder;AI-Powered+Automation+Engineer;Android+Security+Researcher;Ethical+Exploit+Developer" />
+</p>
+
+---
+
+## 🛰️ WELCOME TO THE LAB
+
+🚀 You’ve just entered the **Rafatoel Cyber Lab** – a domain where offensive security research, red team simulations, AI automation, and ethical malware testing are fused together to defend the future.
+
+This lab is designed to **simulate real-world attacks in a controlled, government-approved environment** and build counter-defense mechanisms using cutting-edge techniques. Every tool, PoC, and script here serves one purpose: **train stronger defenses by replicating the adversary.**
+
+---
+
+## 👤 ABOUT ME
+
+Hi, I’m **Rafatoel** — Red Team Engineer, Automation Architect, and Cyberwarfare Simulation Specialist.
+
+🔬 I lead ethical hacking research projects at an official national lab where I:
+
+- Replicate malware attack vectors for defensive tool evaluation
+- Automate browser, mobile, and desktop interactions at scale
+- Build stealthy Android RATs, keyloggers, and AV-evasion modules
+- Simulate C2 infrastructures and phishing pages for detection hardening
+- Train AI-based systems for advanced threat modeling
+
+💡 My philosophy: *You can't defend what you don't understand.*
+
+🧠 I explore:
+
+- Malware reverse engineering  
+- Telegram/WhatsApp attack surfaces  
+- Deep Android exploitation  
+- AI-assisted red teaming (with GPT, LangChain, LLMOps)  
+- Multi-device TikTok & social automation farms  
+- Multi-objective AI in public service simulations (e.g. Bus Route Optimization using DRL + Transformers)
+
+---
+
+## 🧪 PROJECT HIGHLIGHTS
+
+Some of my publicly mentioned and sanitized projects include:
+
+### 🔥 Featured:
+- **📱 Android Remote Access Tool (Rafartoel RAT)**  
+  Full remote control, factory reset, keystroke monitoring, permission bypass, web panel control
+
+- **🌐 Ethiopian Urgent Passport Automation Tool**  
+  Playwright-powered automation for full passport processing — registration to payment
+
+- **👁️‍🗨️ Ethical Malware Simulator (PoC)**  
+  Simulates Telegram-borne keyloggers and spyware — for endpoint defense training
+
+- **📊 Transformer-based Deep Reinforcement Learning for BTND**  
+  Optimizing public transit routes using multi-head attention and Pareto fronts
+
+- **🎯 TikTok Automation Farm**  
+  100+ rooted phones, 2K+ US-based accounts, human-like behavior scripting, creator program simulation
+
+> _💡 Most other projects remain private or under disclosure due to institutional constraints._
+
+---
+
+## 🛠️ SKILLS & TOOLS
+
+### 🧬 Programming
+![Python](https://img.shields.io/badge/-Python-0f0f0f?logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/-Java-0f0f0f?logo=java&logoColor=red)
+![HTML/CSS/JS](https://img.shields.io/badge/-Frontend-0f0f0f?logo=javascript&logoColor=yellow)
+![Bash](https://img.shields.io/badge/-Bash-0f0f0f?logo=gnu-bash&logoColor=white)
+
+### ⚙️ Tools
+![Android Studio](https://img.shields.io/badge/-Android_Studio-0f0f0f?logo=android-studio&logoColor=green)
+![Playwright](https://img.shields.io/badge/-Playwright-0f0f0f?logo=microsoft&logoColor=purple)
+![Frida](https://img.shields.io/badge/-Frida-0f0f0f?logo=frida&logoColor=red)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0f0f0f?logo=owasp&logoColor=orange)
+![VS Code](https://img.shields.io/badge/-VS_Code-0f0f0f?logo=visualstudiocode&logoColor=blue)
+
+### 🧠 AI + Simulation
+- DRL (DQN, PPO, A2C, SAC)
+- Transformer-based encoders
+- LangChain + GPT-4 API integrations
+- AI-driven automation (Python + JS)
+- GAN-based human behavior generation
+
+### 🧰 Others
+- Telegram API / Automation
+- TikTok Account Farming & Farming Architecture
+- Multi-phone / multi-account device scripting
+- Rooted Android control (ADB / system access)
+- GUI toolkits: Tkinter, Electron
+
+---
+
+## 📈 STATS & ACTIVITY
+
+![Rafatoel GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafatoel&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafatoel&layout=compact&theme=tokyonight)
+
+---
+
+## 🧿 CONTACT / COLLABORATION
+
+> Want to simulate something real? Or test your system against the darkest offensive tactics?
+
+Reach out:
+
+- ✉️ `rafatoel@protonmail.com`
+- 🔗 Telegram: `@rafatoel`
+- 🌐 Website: [boltai.vercel.app](https://boltai.vercel.app)
+
+---
+
+> 🔒 _All experiments are conducted in a legally approved, secure lab environment for ethical, educational, and defensive development purposes._  
+> _Unauthorized use is strictly prohibited._
+
+<!-- END README -->
